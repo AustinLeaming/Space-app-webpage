@@ -207,11 +207,11 @@
     opacity: 0.75;
   }
   .button-primary {
-    background-color: #60B3BD;
+    background-color: #92AE4A;
     color: #FFFFFF;
   }
   .button-secondary {
-    background-color: #627FB0;
+    background-color: #92AE4A;
     color: #FFFFFF;
   }
   input {
@@ -249,7 +249,7 @@
     background-color: #F5F9FF;
   }
   .main-content-benefits h2 {
-    color: #65A3C7;
+    color: #BD6152;
   }
   .main-content-info {
     background-color: #627FB0;
@@ -271,7 +271,7 @@
     text-align: center;
   }
   .main-content-cta {
-    background-color: #65A3C7;
+    background-color: #BD6152;
     color: #FFFFFF;
     padding: 80px 0;
   }
